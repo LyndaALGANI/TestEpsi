@@ -462,8 +462,8 @@ class GenreDetailFragment :
             popupMenu.show()
         }
 
-        override fun onStartDrag(holder: SongView.ViewHolder) {
-
+        override fun onStartDrag(viewHolder: RecyclerView.ViewHolder) {
+            // Intentionally left empty: drag-and-drop is not supported in this fragment.
         }
     }
 

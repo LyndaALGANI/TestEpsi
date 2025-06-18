@@ -43,32 +43,28 @@ interface Repository {
         fun getSongs(genre: Genre): Observable<List<Song>>
     }
 
-    interface AlbumsRepository {
-
+    fun interface AlbumsRepository {
         /**
          * Returns a continuous List of [Album]s
          */
         fun getAlbums(): Observable<List<Album>>
     }
 
-    interface AlbumArtistsRepository {
-
+    fun interface AlbumArtistsRepository {
         /**
          * Returns a continuous list of [AlbumArtist]s
          */
         fun getAlbumArtists(): Observable<List<AlbumArtist>>
     }
 
-    interface GenresRepository {
-
+    fun interface GenresRepository {
         /**
          * Returns a continuous List of [Genre]s
          */
         fun getGenres(): Observable<List<Genre>>
     }
 
-    interface PlaylistsRepository {
-
+    fun interface PlaylistsRepository {
         /**
          * Returns a continuous List of [Playlist]s
          */
@@ -81,13 +77,9 @@ interface Repository {
 
         fun deletePlaylist(playlist: Playlist)
 
-
         fun getPodcastPlaylist(): Playlist
-
         fun getRecentlyAddedPlaylist(): Playlist
-
         fun getMostPlayedPlaylist(): Playlist
-
         fun getRecentlyPlayedPlaylist(): Playlist
     }
 

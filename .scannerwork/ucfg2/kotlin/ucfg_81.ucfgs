@@ -1,22 +1,21 @@
-Ô
-Lcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContract#<init>()Vë
-àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/menu/GenreMenuContract.kt ("0*>
-0 ("/
-
-__unknown_file (
-implicit returnBFD
-Bcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContractH˚
-Qcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContract$View#<init>()Vì
-àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/menu/GenreMenuContract.kt	 ("0*>
-0	 ("/
-
-__unknown_file (
-implicit returnBKI
-Gcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContract$ViewHÖ
-Vcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContract$Presenter#<init>()Vì
-àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/menu/GenreMenuContract.kt (,"0*>
-0 (,"/
-
-__unknown_file (
-implicit returnBPN
-Lcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContract$PresenterH
+ê
+›com.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtils#getAlbumArtistMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuCallbacks;)LToolbar.OnMenuItemClickListener;ó
+åC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuUtils.kt ('"0*(
+0' (}"
+ '(	
+	<unknown>:4
+( (W(
+selectedAlbumArtistsjava.lang.Object:c
+Y (|W
+	callbacksJcom.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuCallbacksBJH
+Fcom.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtilsHä
+‡com.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtils#getAlbumArtistClickListener(LAlbumArtist;Lcom/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;ó
+åC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuUtils.kt* *(#"0*(
+0*# *(b"
++ [(	
+	<unknown>:+
+*$ *(<
+albumArtistjava.lang.Object:c
+*> *(aW
+	callbacksJcom.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuCallbacksBJH
+Fcom.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtilsH

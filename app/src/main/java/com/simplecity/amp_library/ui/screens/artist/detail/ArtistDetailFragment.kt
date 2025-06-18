@@ -12,6 +12,7 @@ import android.support.v4.util.Pair
 import android.support.v4.view.ViewCompat
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.PopupMenu
+import android.support.v7.widget.RecyclerView
 import android.support.v7.widget.Toolbar
 import android.transition.Transition
 import android.transition.TransitionInflater
@@ -167,8 +168,8 @@ class ArtistDetailFragment :
             popupMenu.show()
         }
 
-        override fun onStartDrag(holder: SongView.ViewHolder) {
-
+        override fun onStartDrag(viewHolder: RecyclerView.ViewHolder) {
+            // Intentionally left empty: drag-and-drop is not supported in this fragment.
         }
     }
 

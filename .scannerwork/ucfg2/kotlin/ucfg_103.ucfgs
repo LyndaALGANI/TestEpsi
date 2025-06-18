@@ -1,9 +1,22 @@
-Ú
-Kcom.simplecity.amp_library.di.app.activity.fragment.FragmentScope#<init>()Vò
-èC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentScope.kt ("0*<
-0 (
-"/
+Ô
+Lcom.simplecity.amp_library.ui.screens.genre.list.GenreListContract#<init>()Vë
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/list/GenreListContract.kt ("0*>
+0 ("/
 
 __unknown_file (
-implicit returnBEC
-Acom.simplecity.amp_library.di.app.activity.fragment.FragmentScopeH
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.screens.genre.list.GenreListContractH˚
+Qcom.simplecity.amp_library.ui.screens.genre.list.GenreListContract$View#<init>()Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/list/GenreListContract.kt ("0*>
+0 (+"/
+
+__unknown_file (
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.genre.list.GenreListContract$ViewHÖ
+Vcom.simplecity.amp_library.ui.screens.genre.list.GenreListContract$Presenter#<init>()Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/list/GenreListContract.kt ("0*>
+0 ("/
+
+__unknown_file (
+implicit returnBPN
+Lcom.simplecity.amp_library.ui.screens.genre.list.GenreListContract$PresenterH

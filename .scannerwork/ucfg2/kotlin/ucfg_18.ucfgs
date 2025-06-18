@@ -1,118 +1,107 @@
-÷
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog#<init>()Vé
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt o("0*>
-0 ()"/
-
-__unknown_file (
-implicit returnB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHŒ
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#getAnalyticsManager()LAnalyticsManager;
-__unknown_file ("0*é
-0 (ü
-ú
+∑
+àcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/SongsRepository;
+__unknown_file ("0*¬
+0 (Í
+Á
+ (8
+field/com.simplecity.amp_library.data.SongsRepository"__id*ö
+ (ç*äD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"B
+songsRepository/com.simplecity.amp_library.data.SongsRepository"F
+ (:
+8
+field/com.simplecity.amp_library.data.SongsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH’
+âcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V
+__unknown_file ("0*ô
+0 (Ë
+Â
+ (äD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"B
+songsRepository/com.simplecity.amp_library.data.SongsRepository"__id*F
+ (:
+8
+value/com.simplecity.amp_library.data.SongsRepository"
+ (
+implicit return:D
+ (8
+value/com.simplecity.amp_library.data.SongsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH≠
+bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getMediaManager()LMediaManager;
+__unknown_file ("0*ﬂ
+0 (¶
+£
  (
-fieldjava.lang.Object"__id*o
- (c*a9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"$
-analyticsManagerjava.lang.Objecti
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
+fieldjava.lang.Object"__id*v
+ (j*hD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter" 
+mediaManagerjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectI
-G
- (
-fieldjava.lang.Object"__annotation*
- (
-
-%0"'
- (
-
-fieldjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÓ
-`com.simplecity.amp_library.ui.settings.TabChooserDialog#setAnalyticsManager(LAnalyticsManager;)V
-__unknown_file ("0*Ü
-0 (i
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-valuejava.lang.ObjectI
-G
- (
-valuejava.lang.Object"__annotation*
- (
-
-%0ü
-ú
- (a9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"$
-analyticsManagerjava.lang.Object"__id*'
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHÕ
+ccom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setMediaManager(LMediaManager;)V
+__unknown_file ("0*◊
+0 (¶
+£
+ (hD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter" 
+mediaManagerjava.lang.Object"__id*'
  (
 
 valuejava.lang.Object"
  (
 implicit return:%
  (
-valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÀ
-]com.simplecity.amp_library.ui.settings.TabChooserDialog#getSettingsManager()LSettingsManager;
-__unknown_file ("0*ç
-0 (û
-õ
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH™
+`com.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSortManager()LSortManager;
+__unknown_file ("0*ﬁ
+0 (•
+¢
  (
-fieldjava.lang.Object"__id*n
- (b*`9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"#
-settingsManagerjava.lang.Objecti
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
+fieldjava.lang.Object"__id*u
+ (i*gD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+sortManagerjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectI
-G
- (
-fieldjava.lang.Object"__annotation*
- (
-
-%0"'
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH 
+acom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSortManager(LSortManager;)V
+__unknown_file ("0*÷
+0 (•
+¢
+ (gD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+sortManagerjava.lang.Object"__id*'
  (
 
-fieldjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÎ
-^com.simplecity.amp_library.ui.settings.TabChooserDialog#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*Ö
-0 (i
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH∂
+hcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSettingsManager()LSettingsManager;
+__unknown_file ("0*‚
+0 (©
+¶
+ (
+fieldjava.lang.Object"__id*y
+ (m*kD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"#
+settingsManagerjava.lang.Object"'
  (
 
-valuejava.lang.ObjectI
-G
- (
-valuejava.lang.Object"__annotation*
- (
-
-%0û
-õ
- (`9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"#
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH÷
+icom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSettingsManager(LSettingsManager;)V
+__unknown_file ("0*⁄
+0 (©
+¶
+ (kD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"#
 settingsManagerjava.lang.Object"__id*'
  (
 
@@ -120,466 +109,303 @@ G
  (
 implicit return:%
  (
-valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogH€
-Lcom.simplecity.amp_library.ui.settings.TabChooserDialog#onAttach(LContext;)Vê
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt% %("0*å
-0% %(L
-J
-' '(
-%0java.lang.Object"__id* 
-' '(
-java.lang.Object"/
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHá
+ùcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;
+__unknown_file ("0*˝
+0 (í
+è
+ (K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Ø
+ (¢*üD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"Y
+ (M
+K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH•
+ûcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V
+__unknown_file ("0*¡
+0 (ê
+ç
+ (üD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Y
+ (M
+K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"
+ (
+implicit return:W
+ (K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHÏ
+Ìcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#<init>(Lcom/simplecity/amp_library/data/SongsRepository;LMediaManager;LSortManager;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt  (+"0*’
+0 (ñ
+ì
+ (05
+%0/com.simplecity.amp_library.data.SongsRepository"âcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V*b
 
-__unknown_file (
-implicit return:'
-% %(+
-contextjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogH˙6
-Xcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;ê
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt* *("0*î4
-0* *(d
-b
-+ +(V%
-sharedPreferencesjava.lang.Object"__id*)
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*`
 
-__unknown_file (
-	<unknown>Z
-X
-- -((
-adapterjava.lang.Object"__id*)
+__unknown_file (D
+B
+songsRepository/com.simplecity.amp_library.data.SongsRepositoryÆ
+´
+ (*
+%1java.lang.Object"ccom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setMediaManager(LMediaManager;)V*b
 
-__unknown_file (
-	<unknown>b
-`
-/ 5(#
-itemTouchHelperjava.lang.Object"__id*)
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*>
 
-__unknown_file (
-	<unknown>’“
-7 C(	e
-%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0öó
+__unknown_file ("
+ 
+mediaManagerjava.lang.Object´
+®
+ ((
+%2java.lang.Object"acom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSortManager(LSortManager;)V*b
 
-__unknown_file (k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__ScopeWrapperˇ
-¸
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*=
 
-__unknown_file (î
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"%
-sharedPreferencesjava.lang.Object"__id*C
+__unknown_file (!
+
+sortManagerjava.lang.Object∑
+¥
+ (0
+%3java.lang.Object"icom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSettingsManager(LSettingsManager;)V*b
 
-__unknown_file ('
-%
-sharedPreferencesjava.lang.ObjectÎ
-Ë
-
-__unknown_file (ä
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-adapterjava.lang.Object"__id*9
-
-__unknown_file (
-
-adapterjava.lang.Object˚
-¯
-
-__unknown_file (í
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"#
-itemTouchHelperjava.lang.Object"__id*A
-
-__unknown_file (%
-#
-itemTouchHelperjava.lang.ObjectÅ
-˛
-
-__unknown_file (ï
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Object⁄
-◊
-
-__unknown_file (®9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__id*â
-
-__unknown_file (m
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()VÛ
-
-7 C(	
-%1"icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V*s
-7 C(	g
-e
-%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0∫∑
-
-__unknown_file (ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"__ScopeWrapperü
-ú
-
-__unknown_file (¥
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"%
-sharedPreferencesjava.lang.Object"__id*C
-
-__unknown_file ('
-%
-sharedPreferencesjava.lang.Objectã
-à
-
-__unknown_file (™
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"
-adapterjava.lang.Object"__id*9
-
-__unknown_file (
-
-adapterjava.lang.Objectõ
-ò
-
-__unknown_file (≤
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"#
-itemTouchHelperjava.lang.Object"__id*A
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*A
 
 __unknown_file (%
 #
-itemTouchHelperjava.lang.Object°
-û
+settingsManagerjava.lang.Object”
+–
+ (4H
+%4Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ûcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V*b
 
-__unknown_file (µ
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"&
-savedInstanceStatejava.lang.Object"__id*D
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*u
 
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Objectõ
-ò
-
-__unknown_file (»9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"__id*™
-
-__unknown_file (ç
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)VÃ…
-
-__unknown_file (ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"__ScopeWrapper±
-Æ
-
-__unknown_file (∆
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"%
-sharedPreferencesjava.lang.Object"__id*C
-
-__unknown_file ('
-%
-sharedPreferencesjava.lang.Objectù
-ö
-
-__unknown_file (º
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"
-adapterjava.lang.Object"__id*9
-
-__unknown_file (
-
-adapterjava.lang.Object≠
-™
-
-__unknown_file (ƒ
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"#
-itemTouchHelperjava.lang.Object"__id*A
-
-__unknown_file (%
-#
-itemTouchHelperjava.lang.Object≥
-∞
-
-__unknown_file («
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Objectø
-º
-
-__unknown_file (⁄9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"__id*º
-
-__unknown_file (ü
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V¶
-£
-7 C(	
-listenerjava.lang.Object"__id*s
-7 C(	g
-e
-%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0X
-V
-E J(
-itemsjava.lang.Object"__id*)
+__unknown_file (Y
+W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterå
+â
+ (-
+%5java.lang.Object"fcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongs(Lerror/NonExistentClass;)V*R
+ (-FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*)
 
 __unknown_file (
-	<unknown>œ
-Ã
-L L(
-%2java.lang.Object"_com.simplecity.amp_library.ui.settings.TabChooserDialog#getAnalyticsManager()LAnalyticsManager;*G
-L L(;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog_
-]
-O O(2 
-recyclerViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-P P(A!
-layoutManagerjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Z
-X
-Q Q(&
-adapterjava.lang.Object"__id*)
-Q Q(&
-
-adapterjava.lang.Object"
-U d(
-	<unknown>:2
-*  *(;&
-savedInstanceStatejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHö
-
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vê
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt7 C(	"0*Ø
-07  7(5ú
-ô
-
-__unknown_file (
-%0"__id*
-
-__unknown_file (”*–a
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vó
-î
-
-__unknown_file (%
-sharedPreferencesjava.lang.Object"__id*K
-
-__unknown_file (/*-
-
-%0"%
-sharedPreferencesjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-adapterjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-adapterjava.lang.Objectì
-ê
-
-__unknown_file (#
-itemTouchHelperjava.lang.Object"__id*I
-
-__unknown_file (-*+
-
-%0"#
-itemTouchHelperjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
+	<unknown>"/
 
 __unknown_file (
-implicit returnBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0HÅ
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)Vê
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt8 8($"0*œ
-08 8(º
-π
-
-__unknown_file (
-%0"__id*ê
-
-__unknown_file (Û*a
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)Vó
-î
-
-__unknown_file (%
-sharedPreferencesjava.lang.Object"__id*K
-
-__unknown_file (/*-
-
-%0"%
-sharedPreferencesjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-adapterjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-adapterjava.lang.Objectì
-ê
-
-__unknown_file (#
-itemTouchHelperjava.lang.Object"__id*I
-
-__unknown_file (-*+
-
-%0"#
-itemTouchHelperjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
-
-__unknown_file (
-implicit return:&
-8% 8(D
-holderjava.lang.ObjectBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0HÑ
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)Vê
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt< <(("0*ì
-2=s A(H
-F
-> >(9
-	isCheckedjava.lang.Object"__id*
->4 >(9	
-falseH
-F
-? ?(?
-	isCheckedjava.lang.Object"__id*
-?: ?(?	
-falsezx
-@ @(#8
-%22com.simplecity.amp_library.ui.dialog.UpgradeDialog"2com.simplecity.amp_library.ui.dialog.UpgradeDialogô
-ñ
-@ @(#
-%3"<com.simplecity.amp_library.ui.dialog.UpgradeDialog#<init>()V*F
-@ @(#:
-8
-%22com.simplecity.amp_library.ui.dialog.UpgradeDialogS
-Q
-
-__unknown_file (
-%1"__id*)
-
-__unknown_file (
-	<unknown>*
-1*∏
-0< <(Œ
-À
-
-__unknown_file (
-%0"__id*¢
-
-__unknown_file (Ö*Ça
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)Vó
-î
-
-__unknown_file (%
-sharedPreferencesjava.lang.Object"__id*K
-
-__unknown_file (/*-
-
-%0"%
-sharedPreferencesjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-adapterjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-adapterjava.lang.Objectì
-ê
-
-__unknown_file (#
-itemTouchHelperjava.lang.Object"__id*I
-
-__unknown_file (-*+
-
-%0"#
-itemTouchHelperjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object*
-2
-1*>
-1A B("/
-
-__unknown_file (
-implicit return:,
-<) <(C 
-tabViewModeljava.lang.Object:*
-<E <(h
-
-viewHolderjava.lang.ObjectBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0Hò
-Pcom.simplecity.amp_library.ui.settings.TabChooserDialog#show(LFragmentManager;)Vê
-ÖC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.ktg g("0*>
-0g g(."/
-
-__unknown_file (
-implicit return:/
-g g(-#
-fragmentManagerjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHú
-\com.simplecity.amp_library.ui.settings.TabChooserDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*’
-0 (ú
-ô
+implicit return:N
+ (0B
+songsRepository/com.simplecity.amp_library.data.SongsRepository:,
+ (* 
+mediaManagerjava.lang.Object:+
+ ((
+sortManagerjava.lang.Object:/
+ (0#
+settingsManagerjava.lang.Object:c
+ (4W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH©
+ecom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongs()Lerror/NonExistentClass;
+__unknown_file ("0*ÿ
+0 (ü
+ú
  (
-fieldjava.lang.Object"__id*l
- (`*^C
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
+fieldjava.lang.Object"__id*o
+ (c*aD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+songsjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH…
+fcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongs(Lerror/NonExistentClass;)V
+__unknown_file ("0*–
+0 (ü
+ú
+ (aD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+songsjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHß
+ñcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt ("0*Ã
+0 (>
+<
+ (
+%0	Presenter"__id*
+ (
+	PresenterÀ
+»
+ (H
+%1Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ùcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*R
+ (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit return:Z
+ ($N
+viewFcom.simplecity.amp_library.ui.screens.songs.list.SongListContract$ViewBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH©
+òcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt   ("0*Ã
+0   (>
+<
+! !(
+%0	Presenter"__id*
+! !(
+	PresenterÀ
+»
+" "(H
+%1Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ùcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*R
+" "(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit return:Z
+   (&N
+viewFcom.simplecity.amp_library.ui.screens.songs.list.SongListContract$ViewBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHô
+Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt% %("0*>
+0% %("/
+
+__unknown_file (
+implicit return:"
+% %(/
+scrollToTopbooleanBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH∑
+Xcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsSortOrder(I)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt: :(""0*›
+0: :(€
+ÿ
+; ;(
+%0java.lang.Object"`com.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSortManager()LSortManager;*R
+; ;(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterR
+P
+; ;(*"
+songsSortOrderjava.lang.Object"__id*
+;% ;(*
+
+orderintÍÁ
+< <(
+%1kotlin.Unit"Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)V*R
+< <(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*
+< <(
+true2loadSongs(Z)"/
+
+__unknown_file (
+implicit return:
+:# :(-
+orderintBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH«
+Xcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsAscending(Z)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt@ @(""0*Â
+0@ @(€
+ÿ
+A A(
+%0java.lang.Object"`com.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSortManager()LSortManager;*R
+A A(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterZ
+X
+A A(."
+songsAscendingjava.lang.Object"__id*"
+A% A(.
+
+	ascendingbooleanÍÁ
+B B(
+%1kotlin.Unit"Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)V*R
+B B(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*
+B B(
+true2loadSongs(Z)"/
+
+__unknown_file (
+implicit return: 
+@# @(5
+	ascendingbooleanBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHÏ
+Ucom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setShowArtwork(Z)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.ktF F("0*í
+0F F(„
+‡
+G G(
+%0java.lang.Object"hcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSettingsManager()LSettingsManager;*R
+G G(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterÎË
+H H(
+%1kotlin.Unit"Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)V*R
+H H(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*
+H H(	
+false2loadSongs(Z)"/
+
+__unknown_file (
+implicit return:
+F  F(-
+showbooleanBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH¸
+Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#play(LSong;)Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.ktL L("0*û
+0L L(›
+⁄
+M M(
+%0java.lang.Object"bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getMediaManager()LMediaManager;*R
+M M(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit return:$
+L L( 
+songjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH÷
+Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#shuffleAll()Vì
+àC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.ktR R("0*û
+0R R(›
+⁄
+S S(
+%0java.lang.Object"bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getMediaManager()LMediaManager;*R
+S S(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHΩ
+gcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*‡
+0 (ß
+§
+ (
+fieldjava.lang.Object"__id*w
+ (k*iN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion"
 TAGjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectBEC
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$CompanionHº
-]com.simplecity.amp_library.ui.settings.TabChooserDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Õ
-0 (ú
-ô
- (^C
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
+fieldjava.lang.ObjectBPN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$CompanionH›
+hcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*ÿ
+0 (ß
+§
+ (iN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion"
 TAGjava.lang.Object"__id*'
  (
 
@@ -587,5 +413,5 @@ Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
  (
 implicit return:%
  (
-valuejava.lang.ObjectBEC
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$CompanionH
+valuejava.lang.ObjectBPN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$CompanionH

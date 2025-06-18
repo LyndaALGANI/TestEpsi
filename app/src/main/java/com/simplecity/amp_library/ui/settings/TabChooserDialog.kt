@@ -46,7 +46,7 @@ class TabChooserDialog : DialogFragment() {
 
         val itemTouchHelper = ItemTouchHelper(
             ItemTouchHelperCallback(
-                ItemTouchHelperCallback.OnItemMoveListener { fromPosition, toPosition -> adapter.moveItem(fromPosition, toPosition) },
+                ItemTouchHelperCallback.OnItemMoveListener { _, _ -> },
                 ItemTouchHelperCallback.OnDropListener { _, _ -> },
                 ItemTouchHelperCallback.OnClearListener { },
                 ItemTouchHelperCallback.OnSwipeListener { }

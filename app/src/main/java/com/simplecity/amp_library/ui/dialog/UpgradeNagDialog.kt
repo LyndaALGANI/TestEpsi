@@ -31,7 +31,7 @@ class UpgradeNagDialog : DialogFragment() {
             .title(context!!.resources.getString(R.string.get_pro_title))
             .content(context!!.resources.getString(R.string.get_pro_message))
             .positiveText(R.string.btn_upgrade)
-            .onPositive { dialog, which ->
+            .onPositive { dialog, _ ->
                 // Todo: Show IAP or open Play Store
             }
             .negativeText(R.string.get_pro_button_no)

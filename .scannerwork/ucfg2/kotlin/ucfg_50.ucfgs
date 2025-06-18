@@ -1,32 +1,24 @@
-¦
-5com.simplecity.amp_library.di.app.AppModule#<init>()Vy
-qC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt '("0*<
-0 (+"/
+ï
+Lcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract#<init>()V‘
+ˆC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/album/menu/AlbumMenuContract.kt ("0*>
+0 ("/
 
 __unknown_file (
-implicit returnB/-
-+com.simplecity.amp_library.di.app.AppModuleH€
-Ycom.simplecity.amp_library.di.app.AppModule#provideContext(LShuttleApplication;)LContext;{
-qC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt   ("0*C
-0 ("4
- C  (a(
-&
-applicationContextjava.lang.Object:+
-   (6
-applicationjava.lang.ObjectB/-
-+com.simplecity.amp_library.di.app.AppModuleHê
-bcom.simplecity.amp_library.di.app.AppModule#provideSharedPreferences(LContext;)LSharedPreferences;{
-qC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt$ $( "0*(
-0" #("
-% %(E
-	<unknown>:'
-$! $(1
-contextjava.lang.ObjectB/-
-+com.simplecity.amp_library.di.app.AppModuleH°
-:com.simplecity.amp_library.di.app.AppModuleBinds#<init>()Vy
-qC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/AppModule.kt) L("0*<
-0) *("/
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContractHû
+Qcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$View#<init>()V“
+ˆC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/album/menu/AlbumMenuContract.kt
+ ("0*>
+0
+ ("/
 
 __unknown_file (
-implicit returnB42
-0com.simplecity.amp_library.di.app.AppModuleBindsH
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$ViewH…
+Vcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$Presenter#<init>()V“
+ˆC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/album/menu/AlbumMenuContract.kt (-"0*>
+0 (-"/
+
+__unknown_file (
+implicit returnBPN
+Lcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$PresenterH

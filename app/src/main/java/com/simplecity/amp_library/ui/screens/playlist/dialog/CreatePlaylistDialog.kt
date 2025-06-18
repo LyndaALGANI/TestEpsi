@@ -49,7 +49,7 @@ class CreatePlaylistDialog : DialogFragment() {
 
     @Inject lateinit var playlistManager: PlaylistManager
 
-    interface OnSavePlaylistListener {
+    fun interface OnSavePlaylistListener {
         fun onSave(playlist: Playlist)
     }
 

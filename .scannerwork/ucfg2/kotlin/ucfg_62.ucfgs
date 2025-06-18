@@ -1,31 +1,26 @@
-¶
-Xcom.simplecity.amp_library.utils.extensions#getSongsObservable(LGenre;LContext;)LSingle;ç
-ÇC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/extensions/GenreExt.kt
- ("0*⁄
-0 (	X
-V
- (
-queryjava.lang.Object"__id*)
+—
+Ccom.simplecity.amp_library.di.app.activity.ActivityModule#<init>()Vá
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt	 ("0*<
+0	 	("/
 
-__unknown_file (
-	<unknown>V
-T
- (M
-urijava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
- (G
-	<unknown>:'
- (-
-contextjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.extensionsHÈ
-Ncom.simplecity.amp_library.utils.extensions#getSongs(LGenre;LContext;)LSingle;ç
-ÇC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/extensions/GenreExt.kt
- ("0*(
-0 (	"
- (	
-	<unknown>:'
- (#
-contextjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.extensionsH
+__unknown_file (
+implicit returnB=;
+9com.simplecity.amp_library.di.app.activity.ActivityModuleHò
+acom.simplecity.amp_library.di.app.activity.ActivityModule#activity(LAppCompatActivity;)LActivity;â
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*9
+0 ("*
+ (
+
+activityjava.lang.Object:(
+ (,
+activityjava.lang.ObjectB=;
+9com.simplecity.amp_library.di.app.activity.ActivityModuleH¥
+ocom.simplecity.amp_library.di.app.activity.ActivityModule#fragmentManager(LAppCompatActivity;)LFragmentManager;â
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*G
+0 ("8
+ (.,
+*
+supportFragmentManagerjava.lang.Object:(
+ (3
+activityjava.lang.ObjectB=;
+9com.simplecity.amp_library.di.app.activity.ActivityModuleH

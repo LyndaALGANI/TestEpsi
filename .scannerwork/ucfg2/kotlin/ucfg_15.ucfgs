@@ -1,50 +1,72 @@
-»
-šcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#setupQueueSongMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)V“
-ˆC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuUtils.kt ("0*¹
-0 (SZ
-X
- (D
-subMenujava.lang.Object"__id*)
-= (D
-
-subMenujava.lang.Objectœ
-™
- (6
-%0java.lang.Object"gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;)LDisposable;*a
- (U
-S
-playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
-. (5
-
-subMenujava.lang.Object"/
+ã
+Hcom.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks#<init>()V
+„C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt ("0*>
+0 (1"/
 
 __unknown_file (
-implicit return:$
- (*
-menujava.lang.Object:_
-, (RS
-playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperB><
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsH¤
-ßcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#getQueueMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;Lkotlin/jvm/functions/Function0;)LToolbar.OnMenuItemClickListener;“
-ˆC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuUtils.kt (!"0*(
-0! ({"
- %(	
-	<unknown>:*
-" (E
+implicit returnBB@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacksH·
+µcom.simplecity.amp_library.utils.menu.queue#removeQueueItem(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)V
+„C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt (&"0*ä
+0 (£ 
+ ('
+%0kotlin.Unit"bcom.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks#removeQueueItems(Ljava/util/List;)V*N
+ ('B@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2"removeQueueItems(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:N
+' (;B
+	queueItem5com.simplecity.amp_library.ui.screens.queue.QueueItemB/"-
++com.simplecity.amp_library.utils.menu.queueH›
+‡com.simplecity.amp_library.utils.menu.queue#removeQueueItems(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;LSingle;)V
+„C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt ('"0*š
+0 (ë
+è
+
+__unknown_file (
+%0"__declareFunction*²
+
+__unknown_file (•’
+com.simplecity.amp_library.utils.menu.queue#removeQueueItems(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;LSingle;)V$lambda0ëè
+ (
+%1kotlin.Unit"rcom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#transform(LSingle;Lkotlin/jvm/functions/Function1;)V*N
+ (B@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks*,
+ ( 
+
 
-queueItemsjava.lang.Object:W
-G (dK
-	callbacks>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks:6
-f (z*
-closeCabkotlin.jvm.functions.Function0B><
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsH¡
-ðcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#getQueueMenuClickListener(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;“
-ˆC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuUtils.kt( ((!"0*(
-0(! ((V"
-) 7(	
-	<unknown>:N
-(" ((6B
-	queueItem5com.simplecity.amp_library.ui.screens.queue.QueueItem:W
-(8 ((UK
-	callbacks>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacksB><
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsH
+queueItemsjava.lang.Object*"
+
+__unknown_file (
+
+%023transform(LSingle;Lkotlin/jvm/functions/Function1;)"/
+
+__unknown_file (
+implicit return:*
+( (K
+
+queueItemsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.queueHì
+com.simplecity.amp_library.utils.menu.queue#removeQueueItems(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;LSingle;)V$lambda0
+„C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt (H"0*å
+0 (H¤¡
+* (F
+%0kotlin.Unit"bcom.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks#removeQueueItems(Ljava/util/List;)V*N
+* (FB@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks**
+; (E
+
+
+queueItemsjava.util.List2"removeQueueItems(Ljava/util/List;)"/
+
+__unknown_file (
+
+%0kotlin.Unit:(
+ (&
+
+queueItemsjava.util.ListB/-
++com.simplecity.amp_library.utils.menu.queueH

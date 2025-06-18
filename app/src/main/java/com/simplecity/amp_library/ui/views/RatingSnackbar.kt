@@ -21,7 +21,7 @@ class RatingSnackbar(
             if (settingsManager.launchCount == 10 || settingsManager.launchCount != 0 && settingsManager.launchCount % 50 == 0) {
                 val snackbar = Snackbar.make(view, R.string.snackbar_rate_text, Snackbar.LENGTH_INDEFINITE)
                     .setDuration(15000)
-                    .setAction(R.string.snackbar_rate_action) { v ->
+                    .setAction(R.string.snackbar_rate_action) { _ ->
                         onClicked.invoke()
                         analyticsManager.logRateClicked()
                     }

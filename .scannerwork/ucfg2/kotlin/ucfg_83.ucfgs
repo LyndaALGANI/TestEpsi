@@ -1,80 +1,122 @@
-˛
-Qcom.simplecity.amp_library.utils.RingtoneManager#getApplicationContext()LContext;
-__unknown_file ("0*”
-0 (ö
-ó
+”
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#<init>()Vá
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt \("0*>
+0 (-"/
+
+__unknown_file (
+implicit returnB=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogH˝
+Kcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#getAlbum()LAlbum;
+__unknown_file ("0*œ
+0 (ñ
+ì
  (
-fieldjava.lang.Object"__id*j
- (^*\2
-0com.simplecity.amp_library.utils.RingtoneManager"&
-applicationContextjava.lang.Object"'
+fieldjava.lang.Object"__id*f
+ (Z*X;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog"
+albumjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectB42
-0com.simplecity.amp_library.utils.RingtoneManagerHû
-Rcom.simplecity.amp_library.utils.RingtoneManager#setApplicationContext(LContext;)V
-__unknown_file ("0*À
-0 (ö
-ó
- (\2
-0com.simplecity.amp_library.utils.RingtoneManager"&
-applicationContextjava.lang.Object"__id*'
+fieldjava.lang.ObjectB=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogHù
+Lcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#setAlbum(LAlbum;)V
+__unknown_file ("0*«
+0 (ñ
+ì
+ (X;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog"
+albumjava.lang.Object"__id*'
  (
 
 valuejava.lang.Object"
  (
 implicit return:%
  (
-valuejava.lang.ObjectB42
-0com.simplecity.amp_library.utils.RingtoneManagerHî
-Ccom.simplecity.amp_library.utils.RingtoneManager#<init>(LContext;)Và
-~C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/RingtoneManager.kt ()"0*“
-0 (ë
-é
-* (I
-%0java.lang.Object"Rcom.simplecity.amp_library.utils.RingtoneManager#setApplicationContext(LContext;)V*P
+valuejava.lang.ObjectB=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogHƒ
+Ncom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#onAttach(LContext;)Vâ
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt ("0*¯
+0 (L
+J
+ (
+%0java.lang.Object"__id* 
+ (
+java.lang.ObjectÈ
+Ê
+   (?
+%1java.lang.Object"Lcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#setAlbum(LAlbum;)V*I
+   (?=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog*)
 
-__unknown_file (42
-0com.simplecity.amp_library.utils.RingtoneManager*D
-
-__unknown_file ((
-&
-applicationContextjava.lang.Object"/
+__unknown_file (
+	<unknown>"/
 
 __unknown_file (
-implicit return:2
-* (I&
-applicationContextjava.lang.ObjectB42
-0com.simplecity.amp_library.utils.RingtoneManagerH¡
-pcom.simplecity.amp_library.utils.RingtoneManager#setRingtone(LSong;Lkotlin/jvm/functions/Function0;)LDisposable;à
-~C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/RingtoneManager.kt ("0*(
-0 (6"
- G(
-	<unknown>:$
- (
-songjava.lang.Object:7
-  (5+
-	onSuccesskotlin.jvm.functions.Function0B42
-0com.simplecity.amp_library.utils.RingtoneManagerHá
-Ucom.simplecity.amp_library.utils.RingtoneManager$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Œ
-0 (ï
-í
+implicit return:'
+ (+
+contextjava.lang.ObjectB=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogHÇ
+Zcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#onCreateDialog(LBundle;)LDialog;â
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt# #("0*ü
+0# #(]
+[
+% &(e
+
+customViewjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>^
+\
+( ((M
+progressBarjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>Z
+X
+) )(E
+messagejava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>Z
+X
+B E()
+builderjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>"
+G G(
+	<unknown>:2
+#  #(;&
+savedInstanceStatejava.lang.ObjectB=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogHï
+Rcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#show(LFragmentManager;)Vâ
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.ktJ J("0*>
+0J J(."/
+
+__unknown_file (
+implicit return:/
+J J(-#
+fragmentManagerjava.lang.ObjectB=;
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogH¢
+^com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*◊
+0 (û
+õ
  (
-fieldjava.lang.Object"__id*e
- (Y*W<
-:com.simplecity.amp_library.utils.RingtoneManager$Companion"
+fieldjava.lang.Object"__id*n
+ (b*`E
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion"
 TAGjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.RingtoneManager$CompanionHß
-Vcom.simplecity.amp_library.utils.RingtoneManager$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*∆
-0 (ï
-í
- (W<
-:com.simplecity.amp_library.utils.RingtoneManager$Companion"
+fieldjava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionH¬
+_com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*œ
+0 (û
+õ
+ (`E
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion"
 TAGjava.lang.Object"__id*'
  (
 
@@ -82,48 +124,68 @@ Vcom.simplecity.amp_library.utils.RingtoneManager$Companion#setTAG(Ljava/lang/St
  (
 implicit return:%
  (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.utils.RingtoneManager$CompanionH£
-Ucom.simplecity.amp_library.utils.RingtoneManager$Companion#requiresDialog(LContext;)Zà
-~C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/RingtoneManager.ktM M("0*g
-3Q R(S
-Q
-
-__unknown_file (
-%1"__id*)
+valuejava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionHÆ
+dcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#getARG_ALBUM()Ljava/lang/String;
+__unknown_file ("0*›
+0 (§
+°
+ (
+fieldjava.lang.Object"__id*t
+ (h*fE
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion"
+	ARG_ALBUMjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionHŒ
+ecom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#setARG_ALBUM(Ljava/lang/String;)V
+__unknown_file ("0*’
+0 (§
+°
+ (fE
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion"
+	ARG_ALBUMjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionHí	
+ìcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#newInstance(LAlbum;)Lcom/simplecity/amp_library/ui/dialog/AlbumBiographyDialog;â
+C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.ktT T("0*¯
+0T T(%W
+U
+U U(
+argsjava.lang.Object"__id*)
 
 __unknown_file (
-	<unknown>*
-1*#
-4O8 Q("
-P P(
-true*ú
-0M M(,Å
-
-N N(>
-%0"	__compare*
-N& N((
->=*)
-N N(%
-
-SDK_INTjava.lang.Object*#
-N= N(>
-
-Mjava.lang.Object*	
-3
-4
-1*$
-1R S("
-S S(	
-false:'
-M M(+
-contextjava.lang.ObjectB>"<
-:com.simplecity.amp_library.utils.RingtoneManager$CompanionHÅ
-\com.simplecity.amp_library.utils.RingtoneManager$Companion#getDialog(LContext;)LAlertDialog;à
-~C:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/RingtoneManager.ktV V("0*(
-0V V('"
-W _(
-	<unknown>:'
-V V(&
-contextjava.lang.ObjectB>"<
-:com.simplecity.amp_library.utils.RingtoneManager$CompanionH
+	<unknown>âÜ
+W W(1?
+%09com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog"9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogß
+§
+W W(1
+%1"Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#<init>()V*M
+W W(1A
+?
+%09com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog©
+¶
+W W(1E
+fragment9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog"__id*M
+W W(1A
+?
+%09com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogY
+W
+X X(%
+	argumentsjava.lang.Object"__id*&
+X! X(%
+
+argsjava.lang.Object"S
+Y Y(G
+E
+fragment9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog:%
+T T($
+albumjava.lang.ObjectBG"E
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionH

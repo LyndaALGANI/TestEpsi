@@ -522,7 +522,7 @@ class PlaylistDetailFragment :
         }, {
             // Nothing to do
         },
-        { pos ->
+        { _ ->
 
         }) {
         override fun onMove(recyclerView: RecyclerView, viewHolder: RecyclerView.ViewHolder, target: RecyclerView.ViewHolder): Boolean {

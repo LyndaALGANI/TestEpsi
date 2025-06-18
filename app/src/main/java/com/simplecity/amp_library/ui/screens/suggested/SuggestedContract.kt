@@ -4,15 +4,15 @@ import com.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract
 import com.simplecity.amp_library.ui.screens.songs.menu.SongMenuContract
 import com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter.SuggestedData
 
-interface SuggestedContract {
+fun interface SuggestedContract {
 
-    interface Presenter {
+    fun interface Presenter {
 
         fun loadData()
 
     }
 
-    interface View : AlbumMenuContract.View, SongMenuContract.View {
+    fun interface View : AlbumMenuContract.View, SongMenuContract.View {
 
         fun setData(suggestedData: SuggestedData)
     }

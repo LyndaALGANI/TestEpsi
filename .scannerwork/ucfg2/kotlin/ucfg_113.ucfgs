@@ -1,211 +1,138 @@
-´
-6com.simplecity.amp_library.playback.Playback#<init>()Vz
-rC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/Playback.kt 4("0*>
-0 4("/
+ 
+çcom.simplecity.amp_library.playback.ScrobbleManager#getPlaybackSettingsManager()Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;
+__unknown_file ("0*ﬂ
+0 (˚
+¯
+ (D
+field;com.simplecity.amp_library.playback.PlaybackSettingsManager"__id*ü
+ (í*è5
+3com.simplecity.amp_library.playback.ScrobbleManager"V
+playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManager"R
+ (F
+D
+field;com.simplecity.amp_library.playback.PlaybackSettingsManagerB75
+3com.simplecity.amp_library.playback.ScrobbleManagerHË
+écom.simplecity.amp_library.playback.ScrobbleManager#setPlaybackSettingsManager(Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;)V
+__unknown_file ("0*™
+0 (˘
+ˆ
+ (è5
+3com.simplecity.amp_library.playback.ScrobbleManager"V
+playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManager"__id*R
+ (F
+D
+value;com.simplecity.amp_library.playback.PlaybackSettingsManager"
+ (
+implicit return:P
+ (D
+value;com.simplecity.amp_library.playback.PlaybackSettingsManagerB75
+3com.simplecity.amp_library.playback.ScrobbleManagerHî
+zcom.simplecity.amp_library.playback.ScrobbleManager#<init>(Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;)VÉ
+yC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/ScrobbleManager.kt	 	("0*Ì
+0	 	(S¨
+©
+	 	(RA
+%0;com.simplecity.amp_library.playback.PlaybackSettingsManager"écom.simplecity.amp_library.playback.ScrobbleManager#setPlaybackSettingsManager(Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;)V*S
+
+__unknown_file (75
+3com.simplecity.amp_library.playback.ScrobbleManager*t
+
+__unknown_file (X
+V
+playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManager"/
 
 __unknown_file (
-implicit returnB0.
-,com.simplecity.amp_library.playback.PlaybackH¿
-=com.simplecity.amp_library.playback.Playback#isInitialized()Z
-__unknown_file ("0*≠
-0 (~
-|
- (
-fieldboolean"__id*X
- (L*J.
-,com.simplecity.amp_library.playback.Playback"
-isInitializedboolean"
- (
-
-fieldbooleanB0.
-,com.simplecity.amp_library.playback.PlaybackH·
-?com.simplecity.amp_library.playback.Playback#setInitialized(Z)V
-__unknown_file ("0*Æ
-0 (~
-|
- (J.
-,com.simplecity.amp_library.playback.Playback"
-isInitializedboolean"__id*
- (
-
-valueboolean"
- (
-implicit return:
- (
-valuebooleanB0.
-,com.simplecity.amp_library.playback.PlaybackH∏
-9com.simplecity.amp_library.playback.Playback#isPlaying()Z
-__unknown_file ("0*©
-0 (z
-x
- (
-fieldboolean"__id*T
- (H*F.
-,com.simplecity.amp_library.playback.Playback"
-	isPlayingboolean"
- (
-
-fieldbooleanB0.
-,com.simplecity.amp_library.playback.PlaybackH€
-=com.simplecity.amp_library.playback.Playback#setIsPlaying(Z)V
-__unknown_file ("0*™
-0 (z
-x
- (F.
-,com.simplecity.amp_library.playback.Playback"
-	isPlayingboolean"__id*
- (
-
-valueboolean"
- (
-implicit return:
- (
-valuebooleanB0.
-,com.simplecity.amp_library.playback.PlaybackH∞
-;com.simplecity.amp_library.playback.Playback#getPosition()J
-__unknown_file ("0*ü
-0 (s
-q
- (
-fieldlong"__id*P
- (D*B.
-,com.simplecity.amp_library.playback.Playback"
-positionlong"
- (
-
-fieldlongB0.
-,com.simplecity.amp_library.playback.PlaybackH–
-<com.simplecity.amp_library.playback.Playback#setPosition(J)V
-__unknown_file ("0*£
-0 (s
-q
- (B.
-,com.simplecity.amp_library.playback.Playback"
-positionlong"__id*
- (
-
-valuelong"
- (
-implicit return:
- (
-valuelongB0.
-,com.simplecity.amp_library.playback.PlaybackHπ
-Acom.simplecity.amp_library.playback.Playback#getAudioSessionId()I
-__unknown_file ("0*¢
-0 (w
-u
+implicit return:b
+	 	(RV
+playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManagerB75
+3com.simplecity.amp_library.playback.ScrobbleManagerHÎ
+Ncom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#getValue()I
+__unknown_file ("0*±
+0 (Ö
+Ç
  (
-fieldint"__id*U
- (I*G.
-,com.simplecity.amp_library.playback.Playback"
-audioSessionIdint"
+fieldint"__id*b
+ (V*TD
+Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus"
+valueint"
  (
 
-fieldintB0.
-,com.simplecity.amp_library.playback.PlaybackHŸ
-Bcom.simplecity.amp_library.playback.Playback#setAudioSessionId(I)V
-__unknown_file ("0*ß
-0 (w
-u
- (G.
-,com.simplecity.amp_library.playback.Playback"
-audioSessionIdint"__id*
+fieldintBFD
+Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatusHã
+Ocom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#setValue(I)V
+__unknown_file ("0*∂
+0 (Ö
+Ç
+ (TD
+Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus"
+valueint"__id*
  (
 
 valueint"
  (
 implicit return:
  (
-valueintB0.
-,com.simplecity.amp_library.playback.PlaybackH∞
-;com.simplecity.amp_library.playback.Playback#getDuration()J
-__unknown_file ("0*ü
-0 (s
-q
- (
-fieldlong"__id*P
- (D*B.
-,com.simplecity.amp_library.playback.Playback"
-durationlong"
- (
-
-fieldlongB0.
-,com.simplecity.amp_library.playback.PlaybackH–
-<com.simplecity.amp_library.playback.Playback#setDuration(J)V
-__unknown_file ("0*£
-0 (s
-q
- (B.
-,com.simplecity.amp_library.playback.Playback"
-durationlong"__id*
- (
-
-valuelong"
- (
-implicit return:
- (
-valuelongB0.
-,com.simplecity.amp_library.playback.PlaybackHÇ
-scom.simplecity.amp_library.playback.Playback#getCallbacks()Lcom/simplecity/amp_library/playback/Playback$Callbacks;
-__unknown_file ("0*π
-0 (⁄
-◊
- (?
-field6com.simplecity.amp_library.playback.Playback$Callbacks"__id*É
- (w*u.
-,com.simplecity.amp_library.playback.Playback"C
-	callbacks6com.simplecity.amp_library.playback.Playback$Callbacks"M
- (A
-?
-field6com.simplecity.amp_library.playback.Playback$CallbacksB0.
-,com.simplecity.amp_library.playback.PlaybackH°
-tcom.simplecity.amp_library.playback.Playback#setCallbacks(Lcom/simplecity/amp_library/playback/Playback$Callbacks;)V
-__unknown_file ("0*ä
-0 (Ÿ
-÷
- (u.
-,com.simplecity.amp_library.playback.Playback"C
-	callbacks6com.simplecity.amp_library.playback.Playback$Callbacks"__id*M
- (A
-?
-value6com.simplecity.amp_library.playback.Playback$Callbacks"
- (
-implicit return:K
- (?
-value6com.simplecity.amp_library.playback.Playback$CallbacksB0.
-,com.simplecity.amp_library.playback.PlaybackHœ
-Ecom.simplecity.amp_library.playback.Playback#getResumeWhenSwitched()Z
-__unknown_file ("0*¥
-0 (Ñ
-Å
- (
-fieldboolean"__id*]
- (Q*O.
-,com.simplecity.amp_library.playback.Playback"
-resumeWhenSwitchedboolean"
- (
-
-fieldbooleanB0.
-,com.simplecity.amp_library.playback.PlaybackHÔ
-Fcom.simplecity.amp_library.playback.Playback#setResumeWhenSwitched(Z)V
-__unknown_file ("0*µ
-0 (Ñ
-Å
- (O.
-,com.simplecity.amp_library.playback.Playback"
-resumeWhenSwitchedboolean"__id*
- (
-
-valueboolean"
- (
-implicit return:
- (
-valuebooleanB0.
-,com.simplecity.amp_library.playback.PlaybackH¡
-@com.simplecity.amp_library.playback.Playback$Callbacks#<init>()V|
-rC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/Playback.kt) 3("0*>
-0) 3("/
+valueintBFD
+Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatusH˘
+Mcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#<init>(I)VÉ
+yC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/ScrobbleManager.kt ("0*∫
+0 (-˘
+ˆ
+ (,	
+%0int"Ocom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#setValue(I)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus**
+
+__unknown_file (
+
+valueint"/
 
 __unknown_file (
-implicit returnB:8
-6com.simplecity.amp_library.playback.Playback$CallbacksH
+implicit return:
+ (,
+valueintBFD
+Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatusHô
+
+õcom.simplecity.amp_library.playback.ScrobbleManager#scrobbleBroadcast(LContext;Lcom/simplecity/amp_library/playback/ScrobbleManager$ScrobbleStatus;LSong;)VÉ
+yC:/Users/lynda/Downloads/Shuttle-dev/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/ScrobbleManager.kt ("0*¬
+2< (	Y
+W
+ (:
+intentjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>S
+Q
+
+__unknown_file (
+%2"__id*)
+
+__unknown_file (
+	<unknown>*
+1*á
+0 (N•
+¢
+ (#A
+%0;com.simplecity.amp_library.playback.PlaybackSettingsManager"çcom.simplecity.amp_library.playback.ScrobbleManager#getPlaybackSettingsManager()Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;*C
+ (#75
+3com.simplecity.amp_library.playback.ScrobbleManager«
+ƒ
+$ (:
+%1boolean"Xcom.simplecity.amp_library.playback.PlaybackSettingsManager#getEnableLastFmScrobbling()Z*O
+ (#C
+A
+%0;com.simplecity.amp_library.playback.PlaybackSettingsManager*
+2
+1*>
+1	 ("/
+
+__unknown_file (
+implicit return:'
+ (*
+contextjava.lang.Object:W
+, (AK
+stateBcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus:$
+C (M
+songjava.lang.ObjectB75
+3com.simplecity.amp_library.playback.ScrobbleManagerH
